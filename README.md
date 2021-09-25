@@ -1,4 +1,4 @@
-# IGTI - Data Engineer Course - Module 4
+# Data Engineering Studies
 
 Here I share some Data Engineering projects and studies. 
 
