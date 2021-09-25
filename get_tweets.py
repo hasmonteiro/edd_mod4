@@ -1,3 +1,11 @@
+"""
+Default twitter crawler. 
+
+Author: Humberto Monteiro
+Date: 2021
+
+"""
+
 # Libraries
 import json
 import pandas as pd
